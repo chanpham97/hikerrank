@@ -1,0 +1,27 @@
+{
+  "name": "hikerrank",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/build/index.js",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanpham97/hikerrank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanpham97/hikerrank/issues"
+  },
+  "homepage": "https://github.com/chanpham97/hikerrank#readme",
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "@types/node": "^11.13.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
